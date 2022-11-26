@@ -1,5 +1,5 @@
 
- /*  function fun()
+  /* function fun()
    
 {
     let b=10;
@@ -20,5 +20,5 @@ function fun()
     x=500;
     console.log(x)
 }
-fun()
+fun()//closure
 console.log("after execution",x)
