@@ -11,7 +11,7 @@
     fun2()
 
 }
-fun()*/
+fun()*/si
 
 
 let x;
